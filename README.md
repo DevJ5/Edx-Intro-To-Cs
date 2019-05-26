@@ -12,5 +12,6 @@ long myLong = myInt;
 - Explicit, this decimal will be lost, so we need to explicitly cast it.
 double myDouble = 1234.6;
 int myInt = (int)myDouble;
+int myInt = Convert.ToInt32(myDouble);
 
 
