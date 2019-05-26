@@ -1,0 +1,7 @@
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod1_Lab1\Mod1_Assignment\obj\Debug\Mod1_Assignment.csprojAssemblyReference.cache
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod1_Lab1\Mod1_Assignment\obj\Debug\Mod1_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod1_Lab1\Mod1_Assignment\bin\Debug\Mod1_Assignment.exe.config
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod1_Lab1\Mod1_Assignment\bin\Debug\Mod1_Assignment.exe
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod1_Lab1\Mod1_Assignment\bin\Debug\Mod1_Assignment.pdb
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod1_Lab1\Mod1_Assignment\obj\Debug\Mod1_Assignment.exe
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod1_Lab1\Mod1_Assignment\obj\Debug\Mod1_Assignment.pdb

@@ -1,0 +1,6 @@
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod2_Lab1\Mod2_Assignment\bin\Debug\Mod2_Assignment.exe.config
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod2_Lab1\Mod2_Assignment\bin\Debug\Mod2_Assignment.exe
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod2_Lab1\Mod2_Assignment\bin\Debug\Mod2_Assignment.pdb
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod2_Lab1\Mod2_Assignment\obj\Debug\Mod2_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod2_Lab1\Mod2_Assignment\obj\Debug\Mod2_Assignment.exe
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod2_Lab1\Mod2_Assignment\obj\Debug\Mod2_Assignment.pdb
