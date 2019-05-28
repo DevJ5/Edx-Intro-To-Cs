@@ -1,0 +1,7 @@
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Lab2\bin\Debug\Mod3_Lab2.exe.config
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Lab2\bin\Debug\Mod3_Lab2.exe
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Lab2\bin\Debug\Mod3_Lab2.pdb
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Lab2\obj\Debug\Mod3_Lab2.csprojAssemblyReference.cache
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Lab2\obj\Debug\Mod3_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Lab2\obj\Debug\Mod3_Lab2.exe
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Lab2\obj\Debug\Mod3_Lab2.pdb

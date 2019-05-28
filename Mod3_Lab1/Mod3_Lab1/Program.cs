@@ -74,7 +74,5 @@ namespace Mod3_Lab1
         {
             Console.WriteLine("The area is {0}", width * length);
         }
-
-
     }
 }
