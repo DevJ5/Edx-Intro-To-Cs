@@ -4,3 +4,4 @@ C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_L
 C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Laby1\obj\Debug\Mod3_Laby1.csproj.CoreCompileInputs.cache
 C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Laby1\obj\Debug\Mod3_Laby1.exe
 C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Laby1\obj\Debug\Mod3_Laby1.pdb
+C:\Users\Incentro\Documents\Visual Studio 2017\Edx-Intro-Csharp\Mod3_Lab1\Mod3_Laby1\obj\Debug\Mod3_Laby1.csprojAssemblyReference.cache

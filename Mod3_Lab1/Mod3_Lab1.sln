@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "Mod3_L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mod3_Laby1", "Mod3_Laby1\Mod3_Laby1.csproj", "{E7ECA227-C6B5-4CE7-A69E-40736D18268A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self-AssesmentLab", "Self-AssesmentLab\Self-AssesmentLab.csproj", "{8230AF7D-35C7-40C9-8DB3-57F105588D3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E7ECA227-C6B5-4CE7-A69E-40736D18268A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7ECA227-C6B5-4CE7-A69E-40736D18268A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7ECA227-C6B5-4CE7-A69E-40736D18268A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8230AF7D-35C7-40C9-8DB3-57F105588D3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8230AF7D-35C7-40C9-8DB3-57F105588D3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8230AF7D-35C7-40C9-8DB3-57F105588D3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8230AF7D-35C7-40C9-8DB3-57F105588D3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
